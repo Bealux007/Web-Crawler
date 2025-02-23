@@ -1,0 +1,402 @@
+<svg class="st22" color-interpolation-filters="sRGB" height="5.15763in" viewbox="0 0 1028.51 371.349" width="14.2849in" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style type="text/css">
+	
+		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st2 {fill:#000000;font-family:Arial;font-size:0.833336em}
+		.st3 {fill:#000000;stroke:none;stroke-linecap:butt;stroke-width:4.25}
+		.st4 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st5 {fill:#0071b9;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st6 {fill:#ffffff;font-family:Arial;font-size:0.833336em}
+		.st7 {font-size:1em}
+		.st8 {font-size:1.1em}
+		.st9 {marker-end:url(#mrkr4-47);marker-start:url(#mrkr4-45);stroke:#000000;stroke-width:1}
+		.st10 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st11 {marker-end:url(#mrkr4-47);stroke:#000000;stroke-width:1}
+		.st12 {stroke:#000000;stroke-dasharray:7,5;stroke-width:1}
+		.st13 {fill:#0071b9;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st14 {fill:#ffffff;font-family:Arial;font-size:0.916672em}
+		.st15 {fill:#ffffff;stroke:#000000;stroke-width:1}
+		.st16 {fill:#000000;font-family:Arial;font-size:0.916672em}
+		.st17 {stroke:#000000;stroke-width:1}
+		.st18 {fill:none;stroke:#000000;stroke-dasharray:7,5;stroke-width:1}
+		.st19 {fill:#000000;font-family:Arial;font-size:1.00001em}
+		.st20 {fill:#000000;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st21 {fill:#000000;stroke:none;stroke-linecap:butt;stroke-width:0.16554}
+		.st22 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	
+	</style>
+<defs id="Markers">
+<g id="lend4">
+<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"></path>
+</g>
+<marker class="st10" id="mrkr4-45" markerunits="strokeWidth" orient="auto" overflow="visible" refx="6.68" v:arrowsize="2" v:arrowtype="4" v:setback="6.68">
+<use transform="scale(3.52) " xlink:href="#lend4"></use>
+</marker>
+<marker class="st10" id="mrkr4-47" markerunits="strokeWidth" orient="auto" overflow="visible" refx="-7.04" v:arrowsize="2" v:arrowtype="4" v:setback="7.04">
+<use transform="scale(-3.52,-3.52) " xlink:href="#lend4"></use>
+</marker>
+</defs>
+<g v:groupcontext="foregroundPage" v:index="1" v:mid="19">
+<title>AS237</title>
+<g id="shape107-1" transform="translate(961.85,-18.36)" v:groupcontext="shape" v:mid="107">
+<title>AS237</title>
+<desc>AS237</desc>
+<rect class="st1" height="20.0036" width="48.2996" x="0" y="351.346"></rect>
+<text class="st2" v:langid="1033" x="9.14" y="364.35">AS237</text> </g>
+<g id="group176-4" transform="translate(914.989,-279.249)" v:groupcontext="group" v:mid="176">
+<title>12V Battery    </title>
+<g id="shape177-5" transform="translate(20.044,-19.3853)" v:groupcontext="shape" v:mid="177">
+<title>12V Battery   </title>
+<path class="st3" d="M0.85 371.35 L5.08 371.35 C5.55 371.35 5.93 371.01 5.93 370.59 L5.93 369.15 C5.93 368.31 5.17 367.63 4.23         367.63 L1.7 367.63 C0.76 367.63 0 368.31 0 369.15 L0 370.6 C0 371.01 0.38 371.35 0.85 371.35 Z"></path>
+</g>
+<g id="shape178-7" transform="translate(4.96598,-19.3853)" v:groupcontext="shape" v:mid="178">
+<title>12V Battery  </title>
+<path class="st3" d="M0.85 371.35 L5.08 371.35 C5.55 371.35 5.93 371.01 5.93 370.59 L5.93 369.15 C5.93 368.31 5.17 367.63 4.23         367.63 L1.7 367.63 C0.76 367.63 0 368.31 0 369.15 L0 370.6 C0 371.01 0.38 371.35 0.85 371.35 Z"></path>
+</g>
+<g id="shape179-9" transform="translate(0,-16.0396)" v:groupcontext="shape" v:mid="179">
+<title>12V Battery    </title>
+<path class="st3" d="M29.46 368.71 L1.48 368.71 C0.66 368.71 0 369.3 0 370.03 C0 370.76 0.66 371.35 1.48 371.35 L29.46 371.35         C30.27 371.35 30.94 370.76 30.94 370.03 C30.94 369.31 30.27 368.71 29.46 368.71 Z"></path>
+</g>
+<g id="shape180-11" transform="translate(0.957192,-5.68434E-14)" v:groupcontext="shape" v:mid="180">
+<title>12V Battery</title>
+<path class="st3" d="M26.92 356.18 L2.11 356.18 C0.94 356.18 0 357.02 0 358.06 L0 368.36 C0 370.01 1.51 371.35 3.36 371.35 L25.66         371.35 C27.52 371.35 29.02 370.01 29.02 368.36 L29.02 358.06 C29.02 357.02 28.08 356.18 26.92 356.18         Z"></path>
+</g>
+</g>
+<g id="shape181-13" transform="translate(894.458,-259.246)" v:groupcontext="shape" v:mid="181">
+<title>12V Battery </title>
+<desc>12V Battery</desc>
+<rect class="st1" height="20.0036" width="72" x="0" y="351.346"></rect>
+<text class="st2" v:langid="1033" x="9.87" y="364.35">12V Battery</text> </g>
+<g id="group137-16" transform="translate(327.729,-310.989)" v:groupcontext="group" v:mid="137">
+<title>Signal.137</title>
+<g id="shape138-17" transform="translate(293.129,114.072) rotate(51.009)" v:groupcontext="shape" v:mid="138">
+<title>Sheet.138</title>
+<path class="st4" d="M-0 371.35 A27.9904 21.3958 98.48 0 1 30.4 371.35"></path>
+</g>
+<g id="shape139-20" transform="translate(296.295,125.775) rotate(52.0735)" v:groupcontext="shape" v:mid="139">
+<title>Sheet.139</title>
+<path class="st4" d="M-0 371.35 A20.0056 15.4565 98.85 0 1 21.96 371.35"></path>
+</g>
+<g id="shape140-23" transform="translate(294.045,131.85) rotate(52.0735)" v:groupcontext="shape" v:mid="140">
+<title>Sheet.140</title>
+<path class="st4" d="M-0 371.35 A13.5041 9.75732 96.94 0 1 13.85 371.35"></path>
+</g>
+<g id="shape141-26" transform="translate(283.077,125.901) rotate(49.6669)" v:groupcontext="shape" v:mid="141">
+<title>Sheet.141</title>
+<path class="st4" d="M-0 371.35 A4.5573 3.66519 100.58 0 1 5.21 371.35"></path>
+</g>
+</g>
+<a data-link-id="#battery-management-1" xlink:href="#battery-management-1">
+<g id="shape198-29" transform="translate(86.3541,-279.387)" v:groupcontext="shape" v:mid="198">
+<title>Battery Management 1</title>
+<desc>Battery Management</desc>
+<rect class="st5" height="33.75" width="101.25" x="0" y="337.599"></rect>
+<text class="st6" v:langid="1033" x="34.78" y="350.37">Battery<tspan class="st7" dy="1.39em" x="21.44">Management</tspan></text> </g>
+</a>
+<a data-link-id="#ble-1" xlink:href="#ble-1">
+<g id="shape201-33" transform="translate(227.604,-279.387)" v:groupcontext="shape" v:mid="201">
+<title>Bluetooth Low Energy 1</title>
+<desc>Bluetooth Low Energy *</desc>
+<rect class="st5" height="33.75" width="101.25" x="0" y="337.599"></rect>
+<text class="st6" v:langid="1033" x="18.94" y="350.37">Bluetooth Low<tspan class="st7" dy="1.39em" x="31.11">Energy</tspan><tspan class="st8"> </tspan><tspan class="st8">*</tspan></text> </g>
+</a>
+<g id="shape204-39" transform="translate(187.604,-283.762)" v:groupcontext="shape" v:layermember="3" v:mid="204">
+<title>Connector double arrow.204</title>
+<path class="st9" d="M6.68 358.85 L7.04 358.85 L33.46 358.85"></path>
+</g>
+<g id="shape207-48" transform="translate(45.8541,-293.224)" v:groupcontext="shape" v:layermember="3" v:mid="207">
+<title>Connector Arrow.207</title>
+<path class="st11" d="M0 358.85 L33.46 358.85"></path>
+</g>
+<g id="shape208-53" transform="translate(45.8541,-274.224)" v:groupcontext="shape" v:layermember="3" v:mid="208">
+<title>Connector Arrow.208</title>
+<path class="st11" d="M0 358.85 L33.46 358.85"></path>
+</g>
+<g id="shape209-58" transform="translate(40.1041,-308.724)" v:groupcontext="shape" v:layermember="3" v:mid="209">
+<title>Connector dotted line.209</title>
+<path class="st12" d="M12.5 374.35 L12.5 393.35"></path>
+</g>
+<g id="shape210-61" transform="translate(187.604,-296.724)" v:groupcontext="shape" v:mid="210">
+<title>SPI 1</title>
+<desc>SPI</desc>
+<rect class="st1" height="20.0036" width="40" x="0" y="351.346"></rect>
+<text class="st2" v:langid="1033" x="11.94" y="364.35">SPI</text> </g>
+<g id="group213-64" transform="translate(328.51,-215.364)" v:groupcontext="group" v:mid="213">
+<title>Signal.331</title>
+<g id="shape214-65" transform="translate(293.129,114.072) rotate(51.009)" v:groupcontext="shape" v:mid="214">
+<title>Sheet.214</title>
+<path class="st4" d="M-0 371.35 A27.9904 21.3958 98.48 0 1 30.4 371.35"></path>
+</g>
+<g id="shape215-68" transform="translate(296.295,125.775) rotate(52.0735)" v:groupcontext="shape" v:mid="215">
+<title>Sheet.215</title>
+<path class="st4" d="M-0 371.35 A20.0056 15.4565 98.85 0 1 21.96 371.35"></path>
+</g>
+<g id="shape216-71" transform="translate(294.045,131.85) rotate(52.0735)" v:groupcontext="shape" v:mid="216">
+<title>Sheet.216</title>
+<path class="st4" d="M-0 371.35 A13.5041 9.75732 96.94 0 1 13.85 371.35"></path>
+</g>
+<g id="shape217-74" transform="translate(283.077,125.901) rotate(49.6669)" v:groupcontext="shape" v:mid="217">
+<title>Sheet.217</title>
+<path class="st4" d="M-0 371.35 A4.5573 3.66519 100.58 0 1 5.21 371.35"></path>
+</g>
+</g>
+<a data-link-id="#battery-management-2" xlink:href="#battery-management-2">
+<g id="shape226-77" transform="translate(86.3541,-184.387)" v:groupcontext="shape" v:mid="226">
+<title>Battery Management 2</title>
+<desc>Battery Management</desc>
+<rect class="st5" height="33.75" width="101.25" x="0" y="337.599"></rect>
+<text class="st6" v:langid="1033" x="34.78" y="350.37">Battery<tspan class="st7" dy="1.39em" x="21.44">Management</tspan></text> </g>
+</a>
+<a data-link-id="#ble-2" xlink:href="#ble-2">
+<g id="shape227-81" transform="translate(227.604,-184.387)" v:groupcontext="shape" v:mid="227">
+<title>Bluetooth Low Energy 2</title>
+<desc>Bluetooth Low Energy *</desc>
+<rect class="st5" height="33.75" width="101.25" x="0" y="337.599"></rect>
+<text class="st6" v:langid="1033" x="18.94" y="350.37">Bluetooth Low<tspan class="st7" dy="1.39em" x="31.11">Energy</tspan><tspan class="st8"> </tspan><tspan class="st8">*</tspan></text> </g>
+</a>
+<g id="shape228-87" transform="translate(187.604,-188.762)" v:groupcontext="shape" v:layermember="3" v:mid="228">
+<title>Connector double arrow.228</title>
+<path class="st9" d="M6.68 358.85 L7.04 358.85 L33.46 358.85"></path>
+</g>
+<g id="shape229-94" transform="translate(45.8541,-198.224)" v:groupcontext="shape" v:layermember="3" v:mid="229">
+<title>Connector Arrow.229</title>
+<path class="st11" d="M0 358.85 L33.46 358.85"></path>
+</g>
+<g id="shape230-99" transform="translate(45.8541,-179.224)" v:groupcontext="shape" v:layermember="3" v:mid="230">
+<title>Connector Arrow.208</title>
+<path class="st11" d="M0 358.85 L33.46 358.85"></path>
+</g>
+<g id="shape231-104" transform="translate(40.1041,-213.724)" v:groupcontext="shape" v:layermember="3" v:mid="231">
+<title>Connector dotted line</title>
+<path class="st12" d="M12.5 374.35 L12.5 393.35"></path>
+</g>
+<g id="shape232-107" transform="translate(187.604,-201.724)" v:groupcontext="shape" v:mid="232">
+<title>SPI 2</title>
+<desc>SPI</desc>
+<rect class="st1" height="20.0036" width="40" x="0" y="351.346"></rect>
+<text class="st2" v:langid="1033" x="11.94" y="364.35">SPI</text> </g>
+<g id="group234-110" transform="translate(328.51,-113.989)" v:groupcontext="group" v:mid="234">
+<title>Signal.234</title>
+<g id="shape235-111" transform="translate(293.129,114.072) rotate(51.009)" v:groupcontext="shape" v:mid="235">
+<title>Sheet.235</title>
+<path class="st4" d="M-0 371.35 A27.9904 21.3958 98.48 0 1 30.4 371.35"></path>
+</g>
+<g id="shape236-114" transform="translate(296.295,125.775) rotate(52.0735)" v:groupcontext="shape" v:mid="236">
+<title>Sheet.236</title>
+<path class="st4" d="M-0 371.35 A20.0056 15.4565 98.85 0 1 21.96 371.35"></path>
+</g>
+<g id="shape237-117" transform="translate(294.045,131.85) rotate(52.0735)" v:groupcontext="shape" v:mid="237">
+<title>Sheet.237</title>
+<path class="st4" d="M-0 371.35 A13.5041 9.75732 96.94 0 1 13.85 371.35"></path>
+</g>
+<g id="shape238-120" transform="translate(283.077,125.901) rotate(49.6669)" v:groupcontext="shape" v:mid="238">
+<title>Sheet.238</title>
+<path class="st4" d="M-0 371.35 A4.5573 3.66519 100.58 0 1 5.21 371.35"></path>
+</g>
+</g>
+<a data-link-id="#battery-management-3" xlink:href="#battery-management-3">
+<g id="shape247-123" transform="translate(86.3541,-82.5122)" v:groupcontext="shape" v:mid="247">
+<title>Battery Management 3</title>
+<desc>Battery Management</desc>
+<rect class="st5" height="33.75" width="101.25" x="0" y="337.599"></rect>
+<text class="st6" v:langid="1033" x="34.78" y="350.37">Battery<tspan class="st7" dy="1.39em" x="21.44">Management</tspan></text> </g>
+</a>
+<a data-link-id="#ble-3" xlink:href="#ble-3">
+<g id="shape248-127" transform="translate(227.604,-82.5122)" v:groupcontext="shape" v:mid="248">
+<title>Bluetooth Low Energy 3</title>
+<desc>Bluetooth Low Energy *</desc>
+<rect class="st5" height="33.75" width="101.25" x="0" y="337.599"></rect>
+<text class="st6" v:langid="1033" x="18.94" y="350.37">Bluetooth Low<tspan class="st7" dy="1.39em" x="31.11">Energy</tspan><tspan class="st8"> </tspan><tspan class="st8">*</tspan></text> </g>
+</a>
+<g id="shape249-133" transform="translate(187.604,-86.8872)" v:groupcontext="shape" v:layermember="3" v:mid="249">
+<title>Connector double arrow.249</title>
+<path class="st9" d="M6.68 358.85 L7.04 358.85 L33.46 358.85"></path>
+</g>
+<g id="shape250-140" transform="translate(45.8541,-96.3492)" v:groupcontext="shape" v:layermember="3" v:mid="250">
+<title>Connector Arrow.250</title>
+<path class="st11" d="M0 358.85 L33.46 358.85"></path>
+</g>
+<g id="shape251-145" transform="translate(45.8541,-77.3492)" v:groupcontext="shape" v:layermember="3" v:mid="251">
+<title>Connector Arrow.251</title>
+<path class="st11" d="M0 358.85 L33.46 358.85"></path>
+</g>
+<g id="shape252-150" transform="translate(40.1041,-111.849)" v:groupcontext="shape" v:layermember="3" v:mid="252">
+<title>Connector dotted line.252</title>
+<path class="st12" d="M12.5 374.35 L12.5 393.35"></path>
+</g>
+<g id="shape253-153" transform="translate(187.604,-99.8492)" v:groupcontext="shape" v:mid="253">
+<title>SPI 3</title>
+<desc>SPI</desc>
+<rect class="st1" height="20.0036" width="40" x="0" y="351.346"></rect>
+<text class="st2" v:langid="1033" x="11.94" y="364.35">SPI</text> </g>
+<g id="shape255-156" transform="translate(450.333,-144.943)" v:groupcontext="shape" v:mid="255">
+<title>Bluetooth Low Energy </title>
+<rect class="st5" height="116.871" width="101.25" x="0" y="254.478"></rect>
+</g>
+<a data-link-id="#ble" xlink:href="#ble">
+<g id="shape256-158" transform="translate(443.583,-159.118)" v:groupcontext="shape" v:mid="256">
+<title>Bluetooth Low Energy</title>
+<desc>Bluetooth Low Energy</desc>
+<rect class="st13" height="116.871" width="101.25" x="0" y="254.478"></rect>
+<text class="st6" v:langid="1033" x="18.94" y="308.81">Bluetooth Low<tspan class="st7" dy="1.39em" x="34.78">Energy</tspan></text> </g>
+</a>
+<a data-link-id="#pmic" xlink:href="#pmic">
+<g id="shape257-162" transform="translate(590.596,-267.349)" v:groupcontext="shape" v:mid="257">
+<title>PMIC</title>
+<desc>PMIC</desc>
+<rect class="st5" height="43.1036" width="108" x="0" y="328.246"></rect>
+<text class="st14" v:langid="1033" x="40.25" y="353.1">PMIC</text> </g>
+</a>
+<g id="shape259-165" transform="translate(737.833,-208.329)" v:groupcontext="shape" v:mid="259">
+<title>CAN/LIN</title>
+<desc>CAN/LIN</desc>
+<rect class="st15" height="33.75" width="101.25" x="0" y="337.599"></rect>
+<text class="st16" v:langid="1033" x="28.93" y="357.77">CAN/LIN</text> </g>
+<g id="shape260-168" transform="translate(879.833,-208.599)" v:groupcontext="shape" v:mid="260">
+<title>Other ECUs</title>
+<desc>Other ECUs</desc>
+<rect class="st15" height="33.75" width="101.25" x="0" y="337.599"></rect>
+<text class="st16" v:langid="1033" x="36.87" y="351.17">Other<tspan class="st7" dy="1.2em" x="36.26">ECUs</tspan></text> </g>
+<g id="shape261-172" transform="translate(337.729,-244.333)" v:groupcontext="shape" v:layermember="3" v:mid="261">
+<title>Connector double arrow</title>
+<path class="st9" d="M6.68 358.85 L7.04 358.85 L87.56 358.85"></path>
+</g>
+<g id="shape262-179" transform="translate(337.479,-159.835)" v:groupcontext="shape" v:layermember="3" v:mid="262">
+<title>Connector double arrow.262</title>
+<path class="st9" d="M6.68 358.85 L7.04 358.85 L87.81 358.85"></path>
+</g>
+<g id="shape263-186" transform="translate(551.333,-198.287)" v:groupcontext="shape" v:layermember="3" v:mid="263">
+<title>Connector double arrow.263</title>
+<path class="st9" d="M6.68 358.85 L7.04 358.85 L33.46 358.85"></path>
+</g>
+<g id="shape264-193" transform="translate(697.333,-212.704)" v:groupcontext="shape" v:layermember="3" v:mid="264">
+<title>Connector Line</title>
+<path class="st17" d="M0 358.85 L40.5 358.85"></path>
+</g>
+<g id="shape265-196" transform="translate(839.333,-212.974)" v:groupcontext="shape" v:layermember="3" v:mid="265">
+<title>Connector double arrow.265</title>
+<path class="st9" d="M6.68 358.85 L7.04 358.85 L33.46 358.85"></path>
+</g>
+<g id="shape270-203" transform="translate(71.8724,-62.3492)" v:groupcontext="shape" v:mid="270">
+<title>Peripheral</title>
+<desc>Peripheral</desc>
+<path class="st18" d="M0 371.35 L265.73 371.35 L265.73 81.35 L0 81.35 L0 371.35 Z"></path>
+<text class="st19" v:langid="1033" x="105.52" y="104.15">Peripheral</text> </g>
+<g id="shape271-206" transform="translate(432.864,-62.3492)" v:groupcontext="shape" v:mid="271">
+<title>Central</title>
+<desc>Central</desc>
+<path class="st18" d="M0 371.35 L424.47 371.35 L424.47 81.35 L0 81.35 L0 371.35 Z"></path>
+<text class="st19" v:langid="1033" x="192.89" y="104.15">Central</text> </g>
+<a data-link-id="#mcu" xlink:href="#mcu">
+<g id="shape258-209" transform="translate(592.333,-81.8177)" v:groupcontext="shape" v:mid="258">
+<title>MCU</title>
+<desc>MCU</desc>
+<rect class="st5" height="175.532" width="108" x="0" y="195.818"></rect>
+<text class="st14" v:langid="1033" x="41.47" y="288.88">MCU</text> </g>
+</a>
+<a data-link-id="#ipd" xlink:href="#ipd">
+<g id="shape266-212" transform="translate(737.333,-81.8177)" v:groupcontext="shape" v:mid="266">
+<title>IPD</title>
+<desc>IPD</desc>
+<rect class="st5" height="100.532" width="101.25" x="0" y="270.818"></rect>
+<text class="st14" v:langid="1033" x="41.46" y="324.38">IPD</text> </g>
+</a>
+<g id="shape268-215" transform="translate(839.083,-119.849)" v:groupcontext="shape" v:layermember="3" v:mid="268">
+<title>Connector Arrow</title>
+<path class="st11" d="M0 358.85 L33.46 358.85"></path>
+</g>
+<g id="shape273-220" transform="translate(698.596,-276.724)" v:groupcontext="shape" v:layermember="3" v:mid="273">
+<title>Connector Line.273</title>
+<path class="st17" d="M0 358.85 L218.74 358.85"></path>
+</g>
+<g id="shape274-223" transform="translate(71.8724,-33.6256)" v:groupcontext="shape" v:mid="274">
+<title>* Industrial Grade</title>
+<desc>* Industrial Grade</desc>
+<rect class="st1" height="20.0036" width="88.6001" x="0" y="351.346"></rect>
+<text class="st2" v:langid="1033" x="5.39" y="364.35">* Industrial Grade</text> </g>
+<g id="shape275-226" transform="translate(335.729,-256.626)" v:groupcontext="shape" v:mid="275">
+<title>Cell Voltage, Temperature</title>
+<desc>Cell Voltage, Temperature</desc>
+<rect class="st1" height="33.0037" width="97.1349" x="0" y="338.346"></rect>
+<text class="st2" v:langid="1033" x="20.22" y="351.35">Cell Voltage,<tspan class="st7" dy="1.3em" x="19.94">Temperature</tspan></text> </g>
+<g id="shape276-230" transform="translate(336.011,-138.989)" v:groupcontext="shape" v:mid="276">
+<title>Cell Balancing Command</title>
+<desc>Cell Balancing Command</desc>
+<rect class="st1" height="33.0037" width="97.1349" x="0" y="338.346"></rect>
+<text class="st2" v:langid="1033" x="16.6" y="351.35">Cell Balancing<tspan class="st7" dy="1.3em" x="25.5">Command</tspan></text> </g>
+<g id="shape277-234" transform="translate(546,-210)" v:groupcontext="shape" v:mid="277">
+<title>UART/SPI</title>
+<desc>UART/ SPI</desc>
+<rect class="st1" height="33.0037" width="50" x="0" y="338.346"></rect>
+<text class="st2" v:langid="1033" x="10" y="351.35">UART/<tspan class="st7" dy="1.3em" x="16.94">SPI</tspan></text> </g>
+<g id="shape278-238" transform="translate(879.833,-151.836)" v:groupcontext="shape" v:mid="278">
+<title>Fan</title>
+<desc>Fan</desc>
+<rect class="st1" height="20.0036" width="33.75" x="0" y="351.346"></rect>
+<text class="st2" v:langid="1033" x="4" y="364.35">Fan</text> </g>
+<g id="shape279-241" transform="translate(879.833,-131.224)" v:groupcontext="shape" v:mid="279">
+<title>Pump</title>
+<desc>Pump</desc>
+<rect class="st1" height="20.0036" width="37.2585" x="0" y="351.346"></rect>
+<text class="st2" v:langid="1033" x="4" y="364.35">Pump</text> </g>
+<g id="shape280-244" transform="translate(879.833,-110.612)" v:groupcontext="shape" v:mid="280">
+<title>Heater</title>
+<desc>Heater</desc>
+<rect class="st1" height="20.0036" width="42.35" x="0" y="351.346"></rect>
+<text class="st2" v:langid="1033" x="4" y="364.35">Heater</text> </g>
+<g id="shape281-247" transform="translate(879.833,-90)" v:groupcontext="shape" v:mid="281">
+<title>Relay</title>
+<desc>Relay</desc>
+<rect class="st1" height="20.0036" width="42.35" x="0" y="351.346"></rect>
+<text class="st2" v:langid="1033" x="4" y="364.35">Relay</text> </g>
+<g id="shape376-250" transform="translate(700.333,-119.583)" v:groupcontext="shape" v:layermember="3" v:mid="376">
+<title>Connector Line.376</title>
+<path class="st17" d="M0 358.85 L37 358.85"></path>
+</g>
+<g id="group377-253" transform="translate(24.6122,-280.527)" v:groupcontext="group" v:mid="377">
+<title>Battery 1</title>
+<g id="shape378-254" transform="translate(3.85337,-3.94871)" v:groupcontext="shape" v:mid="378">
+<title>Battery 1  </title>
+<rect class="st20" height="23.7118" width="15.0688" x="0" y="347.637"></rect>
+</g>
+<g id="shape379-256" v:groupcontext="shape" v:mid="379">
+<title>Battery 1</title>
+<path class="st21" d="M2.88 339.64 L19.89 339.64 C20.69 339.64 21.41 339.97 21.93 340.49 C22.45 341.01 22.78 341.73 22.78 342.52         L22.78 368.47 C22.78 369.26 22.45 369.98 21.93 370.5 C21.41 371.03 20.69 371.35 19.89 371.35 L2.88 371.35         C2.09 371.35 1.37 371.03 0.85 370.5 C0.32 369.98 0 369.26 0 368.47 L0 342.52 C0 341.73 0.32 341.01 0.85         340.49 C1.37 339.97 2.09 339.64 2.88 339.64 ZM19.89 342.23 L2.88 342.23 C2.8 342.23 2.73 342.26 2.67         342.32 C2.62 342.37 2.59 342.44 2.59 342.52 L2.59 368.47 C2.59 368.55 2.62 368.62 2.67 368.67 C2.73         368.73 2.8 368.76 2.88 368.76 L19.89 368.76 C19.97 368.76 20.05 368.73 20.1 368.67 C20.16 368.62 20.19         368.55 20.19 368.47 L20.19 342.52 C20.19 342.44 20.16 342.37 20.1 342.32 C20.05 342.26 19.97 342.23         19.89 342.23 L19.89 342.23 Z"></path>
+</g>
+<g id="shape380-258" transform="translate(7.01166,-32.493)" v:groupcontext="shape" v:mid="380">
+<title> Battery 1   </title>
+<path class="st21" d="M0.85 368.73 L7.9 368.73 C8.37 368.73 8.75 369.11 8.75 369.57 L8.75 371.35 L0 371.35 L0 369.57 C0 369.11         0.38 368.73 0.85 368.73 Z"></path>
+</g>
+</g>
+<g id="group381-260" transform="translate(24.6122,-186.554)" v:groupcontext="group" v:mid="381">
+<title>Battery 2</title>
+<g id="shape382-261" transform="translate(3.85337,-3.94871)" v:groupcontext="shape" v:mid="382">
+<title>Battery 2  </title>
+<rect class="st20" height="23.7118" width="15.0688" x="0" y="347.637"></rect>
+</g>
+<g id="shape383-263" v:groupcontext="shape" v:mid="383">
+<title>Battery 2</title>
+<path class="st21" d="M2.88 339.64 L19.89 339.64 C20.69 339.64 21.41 339.97 21.93 340.49 C22.45 341.01 22.78 341.73 22.78 342.52         L22.78 368.47 C22.78 369.26 22.45 369.98 21.93 370.5 C21.41 371.03 20.69 371.35 19.89 371.35 L2.88 371.35         C2.09 371.35 1.37 371.03 0.85 370.5 C0.32 369.98 0 369.26 0 368.47 L0 342.52 C0 341.73 0.32 341.01 0.85         340.49 C1.37 339.97 2.09 339.64 2.88 339.64 ZM19.89 342.23 L2.88 342.23 C2.8 342.23 2.73 342.26 2.67         342.32 C2.62 342.37 2.59 342.44 2.59 342.52 L2.59 368.47 C2.59 368.55 2.62 368.62 2.67 368.67 C2.73         368.73 2.8 368.76 2.88 368.76 L19.89 368.76 C19.97 368.76 20.05 368.73 20.1 368.67 C20.16 368.62 20.19         368.55 20.19 368.47 L20.19 342.52 C20.19 342.44 20.16 342.37 20.1 342.32 C20.05 342.26 19.97 342.23         19.89 342.23 L19.89 342.23 Z"></path>
+</g>
+<g id="shape384-265" transform="translate(7.01166,-32.493)" v:groupcontext="shape" v:mid="384">
+<title> Battery 2   </title>
+<path class="st21" d="M0.85 368.73 L7.9 368.73 C8.37 368.73 8.75 369.11 8.75 369.57 L8.75 371.35 L0 371.35 L0 369.57 C0 369.11         0.38 368.73 0.85 368.73 Z"></path>
+</g>
+</g>
+<g id="group385-267" transform="translate(24.6122,-84.054)" v:groupcontext="group" v:mid="385">
+<title>Battery 3</title>
+<g id="shape386-268" transform="translate(3.85337,-3.94871)" v:groupcontext="shape" v:mid="386">
+<title>Battery 3  </title>
+<rect class="st20" height="23.7118" width="15.0688" x="0" y="347.637"></rect>
+</g>
+<g id="shape387-270" v:groupcontext="shape" v:mid="387">
+<title>Battery 3</title>
+<path class="st21" d="M2.88 339.64 L19.89 339.64 C20.69 339.64 21.41 339.97 21.93 340.49 C22.45 341.01 22.78 341.73 22.78 342.52         L22.78 368.47 C22.78 369.26 22.45 369.98 21.93 370.5 C21.41 371.03 20.69 371.35 19.89 371.35 L2.88 371.35         C2.09 371.35 1.37 371.03 0.85 370.5 C0.32 369.98 0 369.26 0 368.47 L0 342.52 C0 341.73 0.32 341.01 0.85         340.49 C1.37 339.97 2.09 339.64 2.88 339.64 ZM19.89 342.23 L2.88 342.23 C2.8 342.23 2.73 342.26 2.67         342.32 C2.62 342.37 2.59 342.44 2.59 342.52 L2.59 368.47 C2.59 368.55 2.62 368.62 2.67 368.67 C2.73         368.73 2.8 368.76 2.88 368.76 L19.89 368.76 C19.97 368.76 20.05 368.73 20.1 368.67 C20.16 368.62 20.19         368.55 20.19 368.47 L20.19 342.52 C20.19 342.44 20.16 342.37 20.1 342.32 C20.05 342.26 19.97 342.23         19.89 342.23 L19.89 342.23 Z"></path>
+</g>
+<g id="shape388-272" transform="translate(7.01166,-32.493)" v:groupcontext="shape" v:mid="388">
+<title> Battery 3   </title>
+<path class="st21" d="M0.85 368.73 L7.9 368.73 C8.37 368.73 8.75 369.11 8.75 369.57 L8.75 371.35 L0 371.35 L0 369.57 C0 369.11         0.38 368.73 0.85 368.73 Z"></path>
+</g>
+</g>
+</g>
+</svg>

@@ -1,0 +1,237 @@
+[
+    {
+        "title": "ADAS Front Camera Solution",
+        "description": "This open front camera solution features Renesas\u2019 R-Car V3H System-on-Chip (SoC). This all-in-one scalable camera platform targets the latest Euro New Car Assessment Program (NCAP) and Chinese Car Safety Assessment Program (C-NCAP) requirements, such as automatic emergency braking, forward collision warning, lane keeping assist, and traffic sign recognition.\nSystem Benefits\u200b:\nSelect a block to discover products for your design",
+        "svg_path": "renesas_data\\images\\ADAS_Front_Camera_Solution.svg"
+    },
+    {
+        "title": "Intelligent Camera Solution",
+        "description": "This solution provides a high-efficiency image recognition engine, functional safety (FuSa) features, and a high level of integration to implement solutions for various applications like front cameras, surround view, and light detection and ranging (LiDAR) systems in order to meet New Car Assessment Program (NCAP) evaluation criteria.\nSystem Benefits:\nSelect a block to discover products for your design",
+        "svg_path": "renesas_data\\images\\Intelligent_Camera_Solution.svg"
+    },
+    {
+        "title": "Automotive Camera Solution with AHL Control Channel",
+        "description": "The combination of Renesas MCU and automotive high-definition link (AHL) devices enables the use of only a twisted pair cable for video transmission and control camera systems such as rear camera, surround view and electronic door mirror.\nThe block diagram shows a system example using a blower to remove water droplets from the camera lens in rainy weather.\nSystem Benefits\u200b:",
+        "svg_path": "renesas_data\\images\\Automotive_Camera_Solution_with_AHL_Control_Channel.svg"
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "Wireless EV Battery Management System",
+        "description": "Renesas' automotive wireless battery management system (BMS) eliminates wire harnesses allowing for flexible battery placement, simplifying the development of scalable electric vehicles.\nSystem Benefits:\n*1: DA14531 is industrial grade. Automotive grade product is under development.",
+        "svg_path": "renesas_data\\images\\Wireless_EV_Battery_Management_System.svg"
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "Cost-Effective\u00a0Digital Cluster with 4-channel AHL and Surround View",
+        "description": "In automotive design, vehicle safety is a top priority. Clusters centralize critical driving information such as speed, fuel, navigation, and warnings to minimize driver distraction. Integrating safety features like the Surround View Monitor (SVM) enhances situational awareness.\nThis fully digital cluster design utilizes a four-channel Automotive High-Definition Link (AHL) for SVM, offering a cost-effective solution. It reduces costs by up to 30% compared to coaxial connectors by using affordable analog cables and connectors, like the twisted pair connectors common in AHL.\nSystem Benefits\u200b:",
+        "svg_path": "renesas_data\\images\\Cost-Effective\u00a0Digital_Cluster_with_4-channel_AHL_and_Surround_View.svg"
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "Vehicle Control Unit",
+        "description": "The vehicle control unit (VCU) device facilitates the implementation of a service-oriented architecture (SOA) or software-defined vehicle (SDV). It supports zonal architecture by OEMs and can function as a central computer/gateway in entry-level and commercial vehicles. The automotive-control MCU provides sufficient performance headroom with a multi-core architecture compliant with functional safety (FuSa) standards from ASIL-B to ASIL-D.\nSystem Benefits\u200b:\nSelect a block to discover products for your design",
+        "svg_path": "renesas_data\\images\\Vehicle_Control_Unit.svg"
+    },
+    {
+        "title": "Vehicle Window Control with Anti-Pinch Safety",
+        "description": "This vehicle window control design integrates an MCU, buttons, DC motor, power supply, and power devices to offer comprehensive window control. It features motor forward and reverse control, window anti-pinch, and more, providing a sensitive response, fast speed, and easy operation. The system meets the automotive industry's demand for sophisticated, safety-compliant window control systems, aligning with global trends for enhanced vehicle safety and user comfort.\nSystem Benefits:\nSelect a block to discover products for your design",
+        "svg_path": "renesas_data\\images\\Vehicle_Window_Control_with_Anti-Pinch_Safety.svg"
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    },
+    {
+        "title": "www.renesas.com",
+        "description": "Verify you are human by completing the action below.",
+        "svg_path": null
+    }
+]
